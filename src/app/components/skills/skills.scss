@@ -1,0 +1,11 @@
+.row {
+      /* Full height */
+  height: 100%;
+  background-image: url('../../../assets/honey.png');
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
